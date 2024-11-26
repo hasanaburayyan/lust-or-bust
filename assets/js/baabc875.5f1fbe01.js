@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklust_docs=self.webpackChunklust_docs||[]).push([[420],{2796:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/lust-or-bust/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
